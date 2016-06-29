@@ -1,6 +1,6 @@
-# FeedHenry WFM vehicle-inspection
+# FeedHenry RainCatcher vehicle-inspection
 
-A vehicle-inspection module for FeedHenry WFM providing a set of directives. The following items of a car can be checked with this module :
+A vehicle-inspection module for FeedHenry RainCatcher providing a set of directives. The following items of a car can be checked with this module :
 - Fuel
 - Tires
 - Lights
